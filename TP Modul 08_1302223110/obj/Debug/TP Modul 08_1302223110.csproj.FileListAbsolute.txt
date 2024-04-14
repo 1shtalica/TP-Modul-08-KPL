@@ -1,0 +1,10 @@
+E:\Programming\Project\Kuliah\KPL\TP Modul 08\TP Modul 08_1302223110\TP Modul 08_1302223110\bin\Debug\TP Modul 08_1302223110.exe.config
+E:\Programming\Project\Kuliah\KPL\TP Modul 08\TP Modul 08_1302223110\TP Modul 08_1302223110\bin\Debug\TP Modul 08_1302223110.exe
+E:\Programming\Project\Kuliah\KPL\TP Modul 08\TP Modul 08_1302223110\TP Modul 08_1302223110\bin\Debug\TP Modul 08_1302223110.pdb
+E:\Programming\Project\Kuliah\KPL\TP Modul 08\TP Modul 08_1302223110\TP Modul 08_1302223110\bin\Debug\Newtonsoft.Json.dll
+E:\Programming\Project\Kuliah\KPL\TP Modul 08\TP Modul 08_1302223110\TP Modul 08_1302223110\bin\Debug\Newtonsoft.Json.xml
+E:\Programming\Project\Kuliah\KPL\TP Modul 08\TP Modul 08_1302223110\TP Modul 08_1302223110\obj\Debug\TP Modul 08_1302223110.csproj.AssemblyReference.cache
+E:\Programming\Project\Kuliah\KPL\TP Modul 08\TP Modul 08_1302223110\TP Modul 08_1302223110\obj\Debug\TP Modul 08_1302223110.csproj.CoreCompileInputs.cache
+E:\Programming\Project\Kuliah\KPL\TP Modul 08\TP Modul 08_1302223110\TP Modul 08_1302223110\obj\Debug\TP Modul.59D6F4E9.Up2Date
+E:\Programming\Project\Kuliah\KPL\TP Modul 08\TP Modul 08_1302223110\TP Modul 08_1302223110\obj\Debug\TP Modul 08_1302223110.exe
+E:\Programming\Project\Kuliah\KPL\TP Modul 08\TP Modul 08_1302223110\TP Modul 08_1302223110\obj\Debug\TP Modul 08_1302223110.pdb
